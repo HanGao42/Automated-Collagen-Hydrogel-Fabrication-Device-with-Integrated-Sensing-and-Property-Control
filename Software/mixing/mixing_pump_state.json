@@ -1,0 +1,12 @@
+{
+  "Z": {
+    "syringe": "small",
+    "current_ml": 1.0,
+    "capacity_ml": 5.0
+  },
+  "E1": {
+    "syringe": "small",
+    "current_ml": 0.0,
+    "capacity_ml": 5.0
+  }
+}

@@ -1,0 +1,11 @@
+term,power_Collagen_mg_mL,power_UV_min,coefficient_raw_units
+Intercept,0,0,-81.9109970331524
+UV_min,0,1,0.24158144812973842
+Collagen_mg_mL,1,0,19.47443524144409
+UV_min^2,0,2,-0.002520504782640842
+Collagen_mg_mL * UV_min,1,1,-0.014618146852944928
+Collagen_mg_mL^2,2,0,-1.5219166825176842
+UV_min^3,0,3,1.577864414121725e-05
+Collagen_mg_mL * UV_min^2,1,2,-5.076798153785816e-05
+Collagen_mg_mL^2 * UV_min,2,1,0.0009346700083542033
+Collagen_mg_mL^3,3,0,0.039891646203813275

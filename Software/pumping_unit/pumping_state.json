@@ -1,0 +1,20 @@
+{
+  "motors": {
+    "x": {
+      "syringe": "small",
+      "current_ml": 2.5
+    },
+    "y": {
+      "syringe": "small",
+      "current_ml": 3.0
+    },
+    "z": {
+      "syringe": "big",
+      "current_ml": 13.0
+    },
+    "e1": {
+      "syringe": "big",
+      "current_ml": 15.0
+    }
+  }
+}

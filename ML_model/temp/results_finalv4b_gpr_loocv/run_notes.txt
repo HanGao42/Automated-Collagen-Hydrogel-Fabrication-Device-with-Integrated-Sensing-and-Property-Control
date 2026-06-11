@@ -1,0 +1,8 @@
+Input file: finalv4b.xlsx
+Number of valid rows used: 14
+Validation method: LOOCV
+Features: ['Collagen_mg_mL', 'UV_min']
+Target: Shear_kPa
+Scaling approach: fold-wise StandardScaler on X and y during LOOCV.
+Best GPR model by RMSE: GPR_Matern15 (RMSE=0.775262, MAE=0.646148, R2=0.912806)
+Exported model file: best_gpr_final_model.joblib

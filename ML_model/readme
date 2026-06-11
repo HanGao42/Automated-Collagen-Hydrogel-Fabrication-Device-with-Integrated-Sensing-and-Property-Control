@@ -1,0 +1,10 @@
+Virtual env
+    For MaxOS and Unix:
+python3 -m venv .venv1
+source .venv1/bin/activate
+
+    For Windows:
+py -m venv .venv1
+.venv1\Scripts\activate
+
+pip install -r requirements.txt

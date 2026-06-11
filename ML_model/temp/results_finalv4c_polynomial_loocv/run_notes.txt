@@ -1,0 +1,9 @@
+Input file: finalv4c.xlsx
+Number of valid rows used: 42
+Validation method: LOOCV
+Features: ['Collagen_mg_mL', 'UV_min']
+Target: Shear_kPa
+Scaling approach: fold-wise StandardScaler on X and y during LOOCV.
+Polynomial coefficient files are saved in both standardized basis and raw-unit basis.
+Best Polynomial model by RMSE: Poly1_Linear (RMSE=4.060092, MAE=2.460516, R2=0.211169)
+Exported model file: best_polynomial_final_model.joblib

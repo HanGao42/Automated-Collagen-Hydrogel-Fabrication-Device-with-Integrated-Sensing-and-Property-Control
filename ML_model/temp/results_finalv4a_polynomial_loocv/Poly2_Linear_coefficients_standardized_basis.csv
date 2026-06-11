@@ -1,0 +1,7 @@
+term_std_basis,coefficient_std_basis
+Collagen_mg_mL,0.4000844404684718
+UV_min,1.025851122132898
+Collagen_mg_mL^2,-0.018180143721761403
+Collagen_mg_mL UV_min,0.0799267104134352
+UV_min^2,-0.37111172130098713
+Intercept,0.35894663451750575

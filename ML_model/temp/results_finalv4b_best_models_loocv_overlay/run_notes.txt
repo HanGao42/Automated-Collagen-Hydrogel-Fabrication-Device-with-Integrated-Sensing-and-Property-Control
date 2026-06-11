@@ -1,0 +1,6 @@
+This overlay plot compares the generalization performance of the best GPR model and the best Polynomial model.
+The data in this folder come from LOOCV prediction files, so each point is an out-of-sample prediction.
+Best GPR model: GPR_Matern15
+Best Polynomial model: Poly2_Linear
+Output CSV: best_models_loocv_predictions_overlay.csv
+Output figure: Fig_best_gpr_vs_best_polynomial_loocv_overlay_true_vs_pred.png
